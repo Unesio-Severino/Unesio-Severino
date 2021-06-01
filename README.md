@@ -49,14 +49,17 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 ----
 ### My Github stats:
 
-<p alingn="center">
-<a href="https://github.com/Unesio-Severino">
-    <img src="https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&count_private=true&theme=vue" width="400">
-</a>
 
 <a href="https://github.com/Unesio-Severino">
+    <img src="https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&count_private=true&theme=vue" width="450">
+</a>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&langs_count=5&theme=tokyonight)]()
+
+<!--<a href="https://github.com/Unesio-Severino">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&hide=java,Ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
+-->
 
 ----
 
