@@ -2,8 +2,7 @@
 Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&count_private=true" alt="Unesio-Severino" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Unesio-Severino.Unesio-Severino" alt="visitors"></p>
+![](https://visitor-badge.laobi.icu/badge?page_id=Unesio-Severino.Unesio-Severino) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/Unesio-Severino)
 
 
 <p align='center'>
