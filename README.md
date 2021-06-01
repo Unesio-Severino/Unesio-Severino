@@ -1,9 +1,10 @@
-<h1 align='center'>
+<h3 align='center'>
 Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-</h1>
+</h3>
 
+<p align='center'>
 ![](https://visitor-badge.laobi.icu/badge?page_id=Unesio-Severino.Unesio-Severino) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/Unesio-Severino)
-
+</p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
