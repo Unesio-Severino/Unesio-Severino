@@ -57,7 +57,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 <a href="https://github.com/Unesio-Severino">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&hide=java,Ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
-<p>
+
 ----
 
 ## 🚀💻 Technologies & Tools
