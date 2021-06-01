@@ -1,5 +1,5 @@
 <h1 align='center'>
-Hi 👋, I'm Unesio Severino, but you can call me Unesio. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h1>
 
 
