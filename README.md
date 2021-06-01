@@ -26,7 +26,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 - 👯 I’m looking to collaborate on open-source projects, etc.
 - 💬 Ask me about my self, Tech and Music.
 </p>
-
+----
 ### My Accounts:
 
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
@@ -51,7 +51,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Unesio-Severino/UnesioASM&hide=TeX&layout=compact)
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&hide=TeX&layout=compact" width="500">
 
 ## 🚀💻 Technologies & Tools
 
