@@ -38,21 +38,16 @@ I’m currently Freelance developer.
 <a target="_blank" href="https://fb.com/https://www.facebook.com/unesio.severino/">
   <img align="left" alt="Facebook" width="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;
-</br>
+
 
 ----
 ### My Github stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnesioASM&theme=vue-dark&show_icons=true&count_private=true&show_icons=true&include_all_commits)
-
-<a href="https://github.com/UnesioASM">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnesioASM1&hide=java,Ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-----
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
 ## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java] (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
