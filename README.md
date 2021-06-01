@@ -2,6 +2,8 @@
 Hi 👋, I'm Unesio Severino, but you can call me Unesio. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h1>
 
+
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -10,7 +12,7 @@ Hi 👋, I'm Unesio Severino, but you can call me Unesio. <img src="https://gith
   <img src="https://img.shields.io/badge/nvidia-gtx%20850M-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<br>
+
 
 <p align='left'>
  - I'm a Front-end and Back-End Developer from Mozambique 💚, and 3 years of coding 🧐. with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing. I'm so obsessed with the idea of improving himself and wants a platform to grow Gaming Developer.
@@ -43,8 +45,12 @@ Hi 👋, I'm Unesio Severino, but you can call me Unesio. <img src="https://gith
 
 ### My Github stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Unesio-Severino/UnesioASM&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Unesio-Severino/UnesioASM&hide=TeX&layout=compact)
+
 ## 🚀💻 Technologies & Tools
 
 
