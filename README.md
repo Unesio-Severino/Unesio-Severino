@@ -19,14 +19,14 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 
 ----
 
-- I’m currently Freelance developer.
+- 💻 I’m currently Freelance developer.
 - ✏  A Draft lover and a good video-game player 🎮.
 - 👽 Learning any technology that apears on my way.
 - 🌱 I’m currently learning all technology that improve my mindset.
 - 👯 I’m looking to collaborate on open-source projects, etc.
-- 💬 Ask me about my self, Tech and Music.</p>
+- 💬 Ask me about my self, Tech and Music.
+</p>
 
-----
 ### My Accounts:
 
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
@@ -48,12 +48,13 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 ### My Github stats:
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&count_private=true&theme=vue-dark" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&count_private=true&theme=vue" width="400"></a>
 </p>
 
 <p align='center'>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&hide=TeX&layout=compact" width="400">
 </p>
+
 ## 🚀💻 Technologies & Tools
 
 <img align="left" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
