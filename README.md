@@ -21,7 +21,7 @@ I'm a Front-end and Back-End Developer from Mozambique 💚, and 3 years of codi
 
 - 💻 I’m currently Freelance developer.
 - ✏  A Draft lover and a good video-game player 🎮.
-- 👽 Learning any technology that apears on my way.
+- 👽 Learning best technology for development .
 - 🌱 I’m currently learning all technology that improve my mindset.
 - 👯 I’m looking to collaborate on open-source projects, etc.
 - 💬 Ask me about my self, Tech and Music.
