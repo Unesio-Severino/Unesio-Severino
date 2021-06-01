@@ -10,7 +10,7 @@ Hi 👋, I'm Unesio Severino, but you can call me Unesio. <img src="https://gith
   <img src="https://img.shields.io/badge/nvidia-gtx%20850M-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<p align='center'>
+<p align='left'>
 I'm a Front-end and Back-End Developer from Mozambique 💚, and 3 years of coding 🧐. with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing. I'm so obsessed with the idea of improving himself and wants a platform to grow Gaming Developer.
 
 I’m currently Freelance developer.
@@ -20,7 +20,7 @@ I’m currently Freelance developer.
 👯 I’m looking to collaborate on open-source projects, etc.
 💬 Ask me about my self, Tech and Music.
 </p>
-----
+
 ### My Accounts:
 
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
@@ -39,15 +39,10 @@ I’m currently Freelance developer.
   <img align="left" alt="Facebook" width="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-
-----
 ### My Github stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Unesio-Severino/UnesioASM&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Unesio-Severino/UnesioASM&hide=TeX&layout=compact)
 ## 🚀💻 Technologies & Tools
 
-https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript
-https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js
-https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python
 
