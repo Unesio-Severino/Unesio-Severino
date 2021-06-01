@@ -10,9 +10,11 @@ Hi 👋, I'm Unesio Severino, but you can call me Unesio. <img src="https://gith
   <img src="https://img.shields.io/badge/nvidia-gtx%20850M-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+<br>
+
 <p align='left'>
  - I'm a Front-end and Back-End Developer from Mozambique 💚, and 3 years of coding 🧐. with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing. I'm so obsessed with the idea of improving himself and wants a platform to grow Gaming Developer.
-
+<br>
 - I’m currently Freelance developer.
 - ✏  A Draft lover and a good video-game player 🎮.
 - 👽 Learning any technology that apears on my way.
