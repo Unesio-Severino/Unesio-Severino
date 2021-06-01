@@ -28,7 +28,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 </p>
 
 ----
-### My Accounts:
+## My Accounts:
 
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
   <img align="left" alt="LinkdeIN" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -47,7 +47,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 </a>&nbsp;&nbsp;
 
 ----
-### ⚡ My Github stats:
+## ⚡ My Github stats:
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&theme=tokyonight)]()
