@@ -45,6 +45,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
   <img align="left" alt="Facebook" width="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;
 
+----
 ### My Github stats:
 
 <p align='center'>
@@ -54,6 +55,9 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 <p align='center'>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&hide=TeX&layout=compact" width="400">
 </p>
+
+
+----
 
 ## 🚀💻 Technologies & Tools
 
