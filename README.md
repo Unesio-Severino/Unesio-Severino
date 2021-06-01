@@ -43,11 +43,11 @@ I’m currently Freelance developer.
 ----
 ### My Github stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=UnesioASM&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnesioASM&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Unesio-Severino/UnesioASM&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Unesio-Severino/UnesioASM&hide=TeX&layout=compact)
 ## 🚀💻 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript
+https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js
+https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python
 
