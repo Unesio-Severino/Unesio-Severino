@@ -3,7 +3,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 </h3>
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Unesio-Severino.Unesio-Severino) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/Unesio-Severino)
+![](https://visitor-badge.laobi.icu/badge?page_id=Unesio-Severino.Unesio-Severino) [![Github](https://img.shields.io/github/followers/Unesio-Severino?label=Followers&logo=Github)](https://github.com/Unesio-Severino)
 
 
 <p align='center'>
