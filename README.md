@@ -47,7 +47,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 </a>&nbsp;&nbsp;
 
 ----
-### My Github stats:
+### ⚡ My Github stats:
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&theme=tokyonight)]()
