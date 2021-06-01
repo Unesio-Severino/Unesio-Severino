@@ -31,19 +31,19 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 ### My Accounts:
 
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="LinkdeIN" height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+258842457175">
-  <img align="left" alt="Whatsapp" width="22px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img align="left" alt="Whatsapp" height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.instagram.com/unesio._.charger/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " />
+  <img align="left" alt="Instagram" height="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="mailto:unesio.private@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
+  <img align="left" alt="Gmail" height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://fb.com/https://www.facebook.com/unesio.severino/">
-  <img align="left" alt="Facebook" width="22px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img align="left" alt="Facebook" height="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 ----
