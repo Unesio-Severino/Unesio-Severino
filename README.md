@@ -15,7 +15,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 
 
 <p align='left'>
- - I'm a Front-end and Back-End Developer from Mozambique 💚, and 3 years of coding 🧐. with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing. I'm so obsessed with the idea of improving himself and wants a platform to grow Gaming Developer.
+I'm a Front-end and Back-End Developer from Mozambique 💚, and 3 years of coding 🧐. with knowledge on how to operate with local networks and remote servers infrastructures, also hardware and computer repairing. I'm so obsessed with the idea of improving himself and wants a platform to grow Gaming Developer.
 
 ----
 
