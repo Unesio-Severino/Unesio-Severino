@@ -2,6 +2,8 @@
 Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h1>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&count_private=true" alt="Unesio-Severino" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Unesio-Severino.Unesio-Severino" alt="visitors"></p>
 
 
 <p align='center'>
