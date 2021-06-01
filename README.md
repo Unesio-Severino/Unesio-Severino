@@ -42,7 +42,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 <a target="_blank" href="mailto:unesio.private@gmail.com">
   <img align="left" alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
 </a>&nbsp;&nbsp;
-<a target="_blank" href="https://fb.com/https://www.facebook.com/unesio.severino/">
+<a target="_blank" href="https://www.facebook.com/unesio.severino/">
   <img align="left" alt="Facebook" height="30" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;
 
