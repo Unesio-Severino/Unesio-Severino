@@ -58,7 +58,6 @@ I'm a Front-end & Back-End Developer, IT Technitian from Mozambique 💚, and fe
 
 ## 🚀💻 Languages & Tools
 
-
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
