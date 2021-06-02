@@ -50,9 +50,9 @@ I'm a Front-end & Back-End Developer, IT Technitian from Mozambique 💚, and fe
 
 ## ⚡ My Github stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&theme=tokyonight)]()
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&theme=vue-dark)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&langs_count=5&theme=vue-dark)]()
 
 ---
 
