@@ -58,7 +58,8 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 <p>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<img src="https://www.php.net/images/logos/new-php-logo.png" data-canonical-src="https://www.php.net/images/logos/new-php-logo.png" width="80"/>
+<img src="https://www.php.net/images/logos/new-php-logo.png" data-canonical-src="https://www.php.net/images/logos/new-php-logo.png" width="40"/>
+<code><img width="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
