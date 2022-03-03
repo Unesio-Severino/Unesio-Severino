@@ -2,9 +2,6 @@
 Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 </h3>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Unesio-Severino.Unesio-Severino)
-![Github](https://img.shields.io/github/followers/Unesio-Severino?label=Followers&logo=Github)
-
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -83,10 +80,10 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-<img align="center" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+<img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <code><img width="80" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img align="center" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+<img alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
   </p>
 </div>
 
@@ -100,9 +97,3 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 </p>
 </div>
 
-   ## Total Vistors in Profile :detective:
-  
-  <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Unesio-Seerino/count.svg"/>
- </p>
