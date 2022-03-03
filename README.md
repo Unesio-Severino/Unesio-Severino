@@ -29,7 +29,7 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 ---
 
 ## My Accounts:
-
+<div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
   <img align="left" alt="LinkdeIN" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -42,13 +42,13 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 <a target="_blank" href="mailto:unesio.private@gmail.com">
   <img align="left" alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
 </a>&nbsp;&nbsp;
-
+</div>
 
 ---
 
 ## ⚡ My Github stats:
 
-<div align="center">
+<div align="center"></div>
   <a href="https://github.com/Unesio-Severino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=7&theme=dracula"/>
@@ -58,6 +58,7 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 ## 💻 Languages and Technologies
 
+<div align="center">
 <p>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <img src="https://www.php.net/images/logos/new-php-logo.png" data-canonical-src="https://www.php.net/images/logos/new-php-logo.png" width="70"/>
@@ -71,12 +72,13 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <code><img width="80" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-
+</div>
   
 ---
  
 ## 🚀 Tools
-  
+ 
+<div align="center">
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -85,13 +87,14 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <code><img width="80" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-  
+</div>
 ---
   
 ## 💻 S.O
+<div align="center">
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
-
 </p>
+</div>
