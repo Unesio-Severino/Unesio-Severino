@@ -50,8 +50,8 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 <div align="center">
   <a href="https://github.com/Unesio-Severino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unesioseverino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesioseverino&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
