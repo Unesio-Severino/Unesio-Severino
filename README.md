@@ -37,10 +37,10 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
   <img align="left" alt="Whatsapp" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.instagram.com/unesio._.charger/">
-  <img align="left" alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " />
+  <img alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="mailto:unesio.private@gmail.com">
-  <img align="left" alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
+  <img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
 </a>&nbsp;&nbsp;
 </div>
 
@@ -99,3 +99,10 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
 </p>
 </div>
+
+   ## Total Vistors in Profile :detective:
+  
+  <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Unesio-Seerino/count.svg"/>
+ </p>
