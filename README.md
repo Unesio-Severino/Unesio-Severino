@@ -28,10 +28,10 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 ## My Accounts:
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
-  <img align="left" alt="LinkdeIN" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="LinkdeIN" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+258842457175">
-  <img align="left" alt="Whatsapp" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img alt="Whatsapp" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a target="_blank" href="https://www.instagram.com/unesio._.charger/">
   <img alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " />
@@ -47,7 +47,7 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 <div align="center">
   <a href="https://github.com/Unesio-Severino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&theme=dracula&include_all_commits=true&    count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
