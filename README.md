@@ -46,11 +46,12 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 ## ⚡ My Github stats:
 
 <div align="center">
-       
+<p>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&locale=en" alt="unesio-severino"/></p>
   
-  <p><src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"/></p>
-
+  <p>&nbsp;<src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"/></p>
+  
+</p> 
 </div>
 
 ---
