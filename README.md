@@ -53,8 +53,8 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"          alt="unesio-severino"/></p>
 
 </div>
-
----
+</br>
+</br>
 ---
 ## 💻 Languages and Technologies
 
