@@ -25,7 +25,7 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 ---
 
-## My Accounts:
+## Find Me In:
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
   <img alt="LinkdeIN" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -50,22 +50,23 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
       
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&locale=en" alt="unesio-severino" /></p>
   
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"          alt="unesio-severino"/></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"/></p>
 
 </div>
-</br>
 
 ---
 
-## 💻 Languages and Technologies:
+
+## 💻 Languages and Technologies
+
 <div align="center">
-  <p>
+<p>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <img src="https://www.php.net/images/logos/new-php-logo.png" data-canonical-src="https://www.php.net/images/logos/new-php-logo.png" width="70"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -73,9 +74,6 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 </a>
 <code><img width="80" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 </div>
-
----
-
   
 ---
 
@@ -89,4 +87,3 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
 </p>
 </div>
-
