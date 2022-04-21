@@ -43,16 +43,7 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 ---
 
-## ⚡ My Github stats:
-<div align="center">
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&locale=en" alt="unesio-severino"/>
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"/>
 
-</div>
-
----
 
 ## 💻 Languages and Technologies
 
@@ -84,3 +75,15 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
 </p>
 </div>
+
+---
+## ⚡ My Github stats:
+<div align="center">
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&locale=en" alt="unesio-severino"/>
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"/>
+
+</div>
+
+---
