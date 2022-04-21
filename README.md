@@ -55,7 +55,7 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 </div>
 
 ---
-
+---
 ## 💻 Languages and Technologies
 
 <div align="center">
