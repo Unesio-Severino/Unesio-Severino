@@ -25,7 +25,7 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 ---
 
-## Find Me In:
+## How to Find me:
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
   <img alt="LinkdeIN" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,12 +45,11 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 ## ⚡ My Github stats:
 
-<div align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&locale=en" alt="unesio-severino"/>
+<div align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&locale=en" alt="unesio-severino"/>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"/>
-  </div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"/>
+</div>
 
 <!-- <a href="https://github.com/Edsonjorgef1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonjorgef1&hide=java,Ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
@@ -61,8 +60,6 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 </a> -->
 ---
 <br>
-<br>
-
 ## 💻 Languages and Technologies
 
 <div align="center">
