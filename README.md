@@ -50,9 +50,7 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=unesio-severino&show_icons=true&locale=en" alt="unesio-severino"/>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesio-severino&layout=compact&langs_count=10&theme=light"/>
-  
-
-</div>
+  </div>
 
 <!-- <a href="https://github.com/Edsonjorgef1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edsonjorgef1&hide=java,Ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
@@ -61,7 +59,9 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 <a href="https://github.com/Edsonjorgef1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Edsonjorgef1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edsonjorgef1's GitHub Stats" />
 </a> -->
-
+---
+<br>
+<br>
 
 ## 💻 Languages and Technologies
 
