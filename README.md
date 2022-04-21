@@ -54,12 +54,12 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 
 </div>
 </br>
-</br>
----
-## 💻 Languages and Technologies
 
+---
+
+## 💻 Languages and Technologies:
 <div align="center">
-<p>
+  <p>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <img src="https://www.php.net/images/logos/new-php-logo.png" data-canonical-src="https://www.php.net/images/logos/new-php-logo.png" width="70"/>
 
@@ -73,6 +73,9 @@ I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of c
 </a>
 <code><img width="80" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 </div>
+
+---
+
   
 ---
 
