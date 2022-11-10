@@ -11,7 +11,7 @@ Hi 👋, I'm Unesio Severino <img src="https://github.com/TheDudeThatCode/TheDud
 </p>
 
 <p align='left'>
-I'm a Software Developer, IT Technitian from Mozambique 💚, and few years of coding 🧐. with knowledge on how to operate with system and infrastructures, also hardware and computer fixing problem. I'm so obsessed with the idea of improving myself in the world of technology.
+I'm a Web Developer, IT Technitian from Mozambique 💚, and few years of coding 🧐. with knowledge on how to operate with system and infrastructures, also hardware and computer fixing problem. I'm so obsessed with the idea of improving myself in the world of technology.
 
 ---
 
