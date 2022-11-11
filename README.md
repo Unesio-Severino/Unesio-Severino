@@ -11,7 +11,6 @@ Ola, sou Unésio Mucutueliua, Desenvolvedor Web.
 - 👽 Actualmente aprendendo sobre novas tecnologias para desenvolvimento mobile.
 - 💬 Pergunte me sobre Tecnologia e Video jogos.
 </p>
----
 
 ## Contatos:
 <div align="center">
