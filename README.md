@@ -7,8 +7,8 @@
 Ola, sou Unésio Mucutueliua, Desenvolvedor Web.
   
 
-- 💻 Atualmente estou trabalhando como Tecnico informatico e Freelance Desenvolvedor Web.
-- 👽 Actualmente aprendendo sobre novas tecnologias para desenvolvimento mobile.
+- 💻 Atualmente, estou trabalhando como Técnico informático e Desenvolvedor Web Freelance.
+- 💻 Actualmente aprendendo sobre novas tecnologias para Desenvolvimento mobile e UI/UX.
 - 💬 Pergunte me sobre Tecnologia e Video jogos.
 </p>
 
