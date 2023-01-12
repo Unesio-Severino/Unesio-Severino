@@ -53,7 +53,13 @@ Ola, sou Unésio Mucutueliua, Desenvolvedor Web.
 ## ⚡ Estatísticas GitHub
 <div>
 <a href="https://github.com/Unesio-Severino">
-![Unesio-Severino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&theme=transparent)
+  
+    <a href="https://github.com/Unesio-Severino/github-readme-stats">
+    <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Unesio-Severino&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&layout=compact)" />
+    </a>
+    <a href="https://github.com/Unesio-Severino/github-readme-stats">
+      <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Unesio-Severino&repo=convoychat](https://github-readme-stats.vercel.app/api?   username=anuraghazra&show_icons=true&theme=radical)" />
+     </a>
 </div>
   
  
