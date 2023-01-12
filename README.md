@@ -51,9 +51,7 @@ Ola, sou Unésio Mucutueliua, Desenvolvedor Web.
   
 ---
 ## ⚡ Estatísticas GitHub
-<div>
-## ⚡ Estatísticas GitHub
-<div>
+
 <a href="https://github.com/Unesio-Severino">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&layout=compact&langs_count=7&theme=moltack"/>
