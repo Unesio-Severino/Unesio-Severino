@@ -26,7 +26,7 @@ i'm, Web Developer with a specialization in front-end using Quasar, Vue js and R
 
 ---
 
-## 💻 Technology e Tools
+## 💻 Technology and Tools
 
 <div align="center">
 <p>
