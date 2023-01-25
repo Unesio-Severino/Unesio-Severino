@@ -2,17 +2,13 @@
 👋, Unésio Mucutueliua <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 </h3>
 
-## Sobre Mim:
+## About me:
 <p align='left'>
-Ola, sou Unésio Mucutueliua, Desenvolvedor Web.
-  
+i'm, Web Developer with a specialization in front-end using Quasar, Vue js and React, But also learning about back-end web development using Laravel Framewrok, PHP, Node js and cloud computing platform using AWS. Adaptable to new technology to enhance my skills and capabilities.
 
-- 💻 Atualmente, estou trabalhando como Técnico informático e Desenvolvedor Web Freelance.
-- 💻 Actualmente aprendendo sobre novas tecnologias para Desenvolvimento mobile e UI/UX.
-- 💬 Pergunte me sobre Tecnologia e Video jogos.
 </p>
 
-## Contatos:
+## Contacts:
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
   <img alt="LinkdeIN" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -30,7 +26,7 @@ Ola, sou Unésio Mucutueliua, Desenvolvedor Web.
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 💻 Technology e Tools
 
 <div align="center">
 <p>
@@ -50,7 +46,7 @@ Ola, sou Unésio Mucutueliua, Desenvolvedor Web.
 </div>
   
 ---
-## ⚡ Estatísticas GitHub
+## ⚡ Stats GitHub
 
 <a href="https://github.com/Unesio-Severino">
 
