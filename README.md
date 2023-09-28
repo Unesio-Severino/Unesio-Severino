@@ -4,7 +4,7 @@
 
 ## About me:
 <p align='left'>
-i'm, Web Developer with a specialization in front-end using Next js, Vue js and React js, But also learning about back-end web development using Laravel Framewrok, PHP, Node js and cloud computing platform using AWS. Adaptable to new technology to enhance my skills and capabilities.
+i'm, Web Developer with a specialization in front-end using Next js, But also learning about back-end web development using Laravel Framewrok, PHP, Java , Firebase and cloud computing platform using AWS. Adaptable to new technology to enhance my skills and capabilities.
 
 </p>
 
