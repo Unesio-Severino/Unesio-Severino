@@ -11,17 +11,22 @@ i'm, Front-end developer with primary focus on Software Development, Progressive
 ## Contacts:
 <div align="center">
 <a target="_blank" href="https://www.linkedin.com/in/unesio-severino/">
-  <img alt="LinkdeIN" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="linkedin" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />      
 </a>&nbsp;&nbsp;
+
 <a target="_blank" href="https://api.whatsapp.com/send?phone=+258842457175">
-  <img alt="Whatsapp" height="30" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img alt="whatsapp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />      
 </a>&nbsp;&nbsp;
-<a target="_blank" href="https://www.instagram.com/unesio._.charger/">
-  <img alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " />
-</a>&nbsp;&nbsp;
+
 <a target="_blank" href="mailto:unesio.private@gmail.com">
-  <img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="gmail" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />      
+</a>&nbsp;&nbsp;
+
+<a target="_blank" href="https://www.instagram.com/unesio._.charger/">
+  <img alt="linkedin" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />      
+</a>&nbsp;&nbsp;
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 ---
