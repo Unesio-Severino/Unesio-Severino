@@ -20,8 +20,7 @@ i'm, Front-end developer with primary focus on Software Development, Progressive
 </a>&nbsp;&nbsp;
 
 <a target="_blank" href="mailto:unesio.private@gmail.com">
-  
-<img src="https://www.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg">
+  <img src="https://www.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" width="60" height="60" />
 </a>&nbsp;&nbsp;
 </div>
 
