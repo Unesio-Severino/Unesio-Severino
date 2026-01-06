@@ -49,18 +49,6 @@ i'm, Front-end developer with primary focus on Software Development, Progressive
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
           
           
-</div>
-  
----
-## ⚡ Stats GitHub
+</div> 
 
-<a href="https://github.com/Unesio-Severino">
-
-<img height="180em" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Unesio-Severino&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  
-<img height= "180em" src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Unesio-Severino&layout=compact&langs_count=7&theme=moltack"/>
-
-
-</div>
-  
  
