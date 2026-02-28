@@ -73,6 +73,11 @@ def _build_defs(n, card_width, gap, card_colors, theme):
 def _build_starfield(n, width, height, card_colors, theme):
     """Build the 25-star star field (bg + mid-ground stars)."""
     stars = []
+
+    # Fallback de paleta para evitar i % 0 e também evitar indexar lista vazia
+    palette = card_colors if (card_colors and n > 0) else [theme["text_dim"]]
+    palette_len = len(palette)  # sempre >= 1
+
     # 15 faint bg stars
     sx = deterministic_random("proj-star-x", 15, 10, width - 10)
     sy = deterministic_random("proj-star-y", 15, 10, height - 10)
@@ -80,7 +85,7 @@ def _build_starfield(n, width, height, card_colors, theme):
     so = deterministic_random("proj-star-o", 15, 0.05, 0.25)
     sd = deterministic_random("proj-star-d", 15, 5.0, 8.0)
     for i in range(15):
-        fill = card_colors[i % n] if i % 4 == 0 else theme["text_dim"]
+        fill = palette[i % palette_len] if i % 4 == 0 else theme["text_dim"]
         stars.append(
             f'  <circle cx="{sx[i]:.1f}" cy="{sy[i]:.1f}" r="{sr[i]:.1f}" '
             f'fill="{fill}" opacity="{so[i]:.2f}">'
@@ -88,6 +93,7 @@ def _build_starfield(n, width, height, card_colors, theme):
             f'dur="{sd[i]:.1f}s" repeatCount="indefinite"/>'
             f'</circle>'
         )
+
     # 10 mid-ground stars
     mx = deterministic_random("proj-mstar-x", 10, 15, width - 15)
     my = deterministic_random("proj-mstar-y", 10, 15, height - 15)
@@ -95,7 +101,7 @@ def _build_starfield(n, width, height, card_colors, theme):
     mo = deterministic_random("proj-mstar-o", 10, 0.10, 0.40)
     md = deterministic_random("proj-mstar-d", 10, 3.0, 6.0)
     for i in range(10):
-        fill = card_colors[i % n] if i % 4 == 0 else theme["text_dim"]
+        fill = palette[i % palette_len] if i % 4 == 0 else theme["text_dim"]
         stars.append(
             f'  <circle cx="{mx[i]:.1f}" cy="{my[i]:.1f}" r="{mr[i]:.1f}" '
             f'fill="{fill}" opacity="{mo[i]:.2f}">'
@@ -103,6 +109,7 @@ def _build_starfield(n, width, height, card_colors, theme):
             f'dur="{md[i]:.1f}s" repeatCount="indefinite"/>'
             f'</circle>'
         )
+
     return "\n".join(stars)
 
 
