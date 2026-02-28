@@ -110,6 +110,7 @@ def main():
         except Exception as e:
             logger.warning("Could not render projects constellation (%s). Writing placeholder instead.", e)
             svgs["projects-constellation.svg"] = _placeholder_projects_svg(builder.theme)
+            
 
     # Write files
     for filename, content in svgs.items():
