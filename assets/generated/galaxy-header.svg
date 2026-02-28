@@ -328,7 +328,15 @@
     <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Docker</text>
 
   <!-- 9. Project stars -->
-
+    <circle cx="464.1" cy="86.5" r="4" fill="#a78bfa" filter="url(#star-glow-0)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="623.9" cy="202.4" r="4" fill="#00d4ff" filter="url(#star-glow-1)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="171.4" cy="180.6" r="4" fill="#ffb020" filter="url(#star-glow-2)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
 
   <!-- 10. Orbital rings -->
     <ellipse cx="425" cy="155" rx="55" ry="18" fill="none" stroke="#00d4ff" stroke-width="0.6" opacity="0.15" stroke-dasharray="4 6">
