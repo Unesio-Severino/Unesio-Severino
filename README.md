@@ -16,9 +16,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
+</div> -->
 
 <br/>
 
