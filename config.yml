@@ -1,0 +1,73 @@
+# Galaxy Profile README Configuration
+# Fork this repo and customize this file to make it your own!
+
+username: unesio-severino
+
+profile:
+  name: "Unésio Mucutueliua"
+  tagline: "Software Engineer"
+  company: "Tehillah Solutions, SA"
+  location: "Mozambique"
+  bio: |
+    Building software systems and crafting elegant solutions.
+  philosophy: 'Solving one problem at a time, with code and creativity.'
+
+social:
+  email: "unesio.private@gmail.com"
+  linkedin: "unesio-severino"
+  website: ""
+
+# Galaxy arms represent your core focus areas
+# Each arm spirals out from the center with its own color and tech items
+galaxy_arms:
+  - name: "Software Development"
+    color: "dendrite_violet"
+    items:
+      - "Laravel"
+      - "HTML / CSS"
+      - "PHP"
+      - "JavaScript"
+      - "Figma"
+  - name: "Databases"
+    color: "synapse_cyan"
+    items:
+      - "Prisma"
+      - "PostgreSQL"
+      - "MySQL"
+  - name: "Automation"
+    color: "axon_amber"
+    items:
+      - "GitHub Actions"
+      - "Linux"
+      - "Docker"
+
+
+# Theme color overrides (optional — defaults to deep space palette)
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+# Stats configuration
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+# Language display settings
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
