@@ -88,4 +88,4 @@ languages:
     - "CSS"
     - "Shell"
     - "Makefile"
-  max_display: 8
+  max_display: 15
