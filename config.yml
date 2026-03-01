@@ -35,7 +35,7 @@ galaxy_arms:
     color: "dendrite_violet"
     items:
       - "Laravel"
-      - "HTML / CSS"
+      # - "HTML / CSS"
       - "PHP"
       - "JavaScript"
       - "Figma"
