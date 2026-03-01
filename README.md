@@ -24,12 +24,11 @@
 
 <details>
 <summary><strong>More about me</strong></summary>
-
 <br/>
 
 Building software systems and crafting elegant solutions.
 
-**Currently at** Tehillah Solutions, SA
+**Currently at** Tehillah Solutions, SA FreeLancer, and Applications Developer
 </details>
 
 <br/>

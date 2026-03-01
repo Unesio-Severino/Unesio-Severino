@@ -39,18 +39,25 @@ galaxy_arms:
       - "PHP"
       - "JavaScript"
       - "Figma"
+      - "Next.js"
+      - "React"
+      - "Tailwind CSS"
+      - "Firebase"
   - name: "Databases"
     color: "synapse_cyan"
     items:
       - "Prisma"
       - "PostgreSQL"
       - "MySQL"
+      - "MongoDB"
   - name: "Automation"
     color: "axon_amber"
     items:
       - "GitHub Actions"
       - "Linux"
       - "Docker"
+      - "CI/CD"
+      - "System Administration"
 
 
 # Theme color overrides (optional — defaults to deep space palette)
