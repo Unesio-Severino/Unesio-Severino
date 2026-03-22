@@ -49,7 +49,6 @@ galaxy_arms:
       - "Prisma"
       - "PostgreSQL"
       - "MySQL"
-      - "MongoDB"
   - name: "Automation"
     color: "axon_amber"
     items:
