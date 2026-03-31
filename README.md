@@ -16,8 +16,9 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 Building software systems and crafting elegant solutions.
+<br/>
 **Currently at** Tehillah Solutions, SA FreeLancer, and Applications Developer
 </div>
 
