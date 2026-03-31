@@ -16,20 +16,10 @@
 
 <br/>
 
-<!-- <div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div> -->
-
-<br/>
-
-<details>
-<summary><strong>More about me</strong></summary>
-<br/>
-
+<div align="center">
 Building software systems and crafting elegant solutions.
-
 **Currently at** Tehillah Solutions, SA FreeLancer, and Applications Developer
-</details>
+</div>
 
 <br/>
 
