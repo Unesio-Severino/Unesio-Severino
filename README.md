@@ -38,15 +38,13 @@
 <h3 id="frontend-development">Frontend development:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-React-000?&amp;logo=React" alt="React">
-<img src="https://img.shields.io/badge/-Redux-000?&amp;logo=Redux" alt="Redux">
 <img src="https://img.shields.io/badge/-Next.js-000?&amp;logo=Next.js" alt="Next.js">
 <img src="https://img.shields.io/badge/-Material--UI-000?&amp;logo=Material-UI" alt="Material-UI">
 <img src="https://img.shields.io/badge/-Chakra%20UI-000?&amp;logo=Chakra-UI" alt="Chakra UI">
-<img src="https://img.shields.io/badge/-SCSS-000?&amp;logo=Sass" alt="SCSS">
-<img src="https://img.shields.io/badge/-CSS-000?&amp;logo=CSS3" alt="CSS">
-<img src="https://img.shields.io/badge/-HTML-000?&amp;logo=HTML5" alt="HTML">
-<img src="https://img.shields.io/badge/-Chart.js-000?&amp;logo=Chart.js" alt="Chart.js"></p>
-
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+<img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff">
+<img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff">
 
 <h3 id="misc-tools">Misc tools:</h3>
 <p> 
