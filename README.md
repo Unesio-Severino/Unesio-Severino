@@ -11,16 +11,29 @@
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="programming-languages">Programming languages:</h3>
 <p> 
-<img src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" alt="JavaScript">
-<img src="https://img.shields.io/badge/-Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/-GraphQL-000?&amp;logo=GraphQL" alt="GraphQL">
-<img src="https://img.shields.io/badge/-HCL-000?&amp;logo=HCL" alt="HCL">
-<img src="https://img.shields.io/badge/-Bash-000?&amp;logo=GNU-Bash" alt="Bash">
-<img src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" alt="Python">
-<img src="https://img.shields.io/badge/-APEX-000?&amp;logo=Salesforce" alt="APEX">
-<img src="https://img.shields.io/badge/-LWC-000?&amp;logo=Salesforce" alt="LWC">
 <img src="https://img.shields.io/badge/-PHP-000?&amp;logo=PHP" alt="PHP">
-<img src="https://img.shields.io/badge/-PineScript-000?&amp;logo=TradingView" alt="PineScript"></p>
+<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+</p>
+
+<h3 id="frontend-development">Frameworks and Libs development:</h3>
+<p> 
+<img src="https://img.shields.io/badge/-Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
+<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff">
+<img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+
 <h3 id="frontend-development">Frontend development:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-React-000?&amp;logo=React" alt="React">
@@ -32,6 +45,8 @@
 <img src="https://img.shields.io/badge/-CSS-000?&amp;logo=CSS3" alt="CSS">
 <img src="https://img.shields.io/badge/-HTML-000?&amp;logo=HTML5" alt="HTML">
 <img src="https://img.shields.io/badge/-Chart.js-000?&amp;logo=Chart.js" alt="Chart.js"></p>
+
+
 <h3 id="misc-tools">Misc tools:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-Git-000?&amp;logo=Git" alt="Git">
@@ -43,6 +58,7 @@
 <img src="https://img.shields.io/badge/-Jira-000?&amp;logo=Jira" alt="Jira">
 <img src="https://img.shields.io/badge/-VS%20Code-000?&amp;logo=Visual-Studio-Code" alt="VS Code">
 <img src="https://img.shields.io/badge/-Postman-000?&amp;logo=Postman" alt="Postman"></p>
+
 <h3 id="services--frameworks">Services &amp; Frameworks:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-Hasura-000?&amp;logo=Hasura" alt="Hasura">
