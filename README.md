@@ -14,28 +14,26 @@
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-</p>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></p>
 
-<h3 id="frontend-development">Frameworks and Libs development:</h3>
+<h3 id="frontend-development">Frameworks &amp; Libs Stacks:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/-Angular-%23DD0031.svg?logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff">
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff">
-<img src="https://img.shields.io/badge/-Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white">
-</p>
+<img src="https://img.shields.io/badge/-Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white"></p>
+
 <p> 
 <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
 <img src="https://img.shields.io/badge/-React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/-React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
-</p>
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"></p>
 
-<h3 id="frontend-development">Frontend development:</h3>
+<h3 id="frontend-development">Frontend Stacks:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-React-000?&amp;logo=React" alt="React">
 <img src="https://img.shields.io/badge/-Next.js-000?&amp;logo=Next.js" alt="Next.js">
@@ -44,32 +42,39 @@
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
 <img src="https://img.shields.io/badge/-Three.js-000?logo=threedotjs&logoColor=fff">
-<img src="https://img.shields.io/badge/-shadcn%2Fui-000?logo=shadcnui&logoColor=fff">
+<img src="https://img.shields.io/badge/-shadcn%2Fui-000?logo=shadcnui&logoColor=fff"></p>
+
 
 <h3 id="misc-tools">Misc tools:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-Git-000?&amp;logo=Git" alt="Git">
 <img src="https://img.shields.io/badge/-GitHub-000?&amp;logo=GitHub" alt="GitHub">
-<img src="https://img.shields.io/badge/-GitLab-000?&amp;logo=GitLab" alt="GitLab">
-<img src="https://img.shields.io/badge/-Docker-000?&amp;logo=Docker" alt="Docker">
-<img src="https://img.shields.io/badge/-Jest-000?&amp;logo=Jest" alt="Jest">
-<img src="https://img.shields.io/badge/-Cypress-000?&amp;logo=Cypress" alt="Cypress">
-<img src="https://img.shields.io/badge/-Jira-000?&amp;logo=Jira" alt="Jira">
+<img src="https://img.shields.io/badge/-Android%20Studio-1976D2?logo=androidstudio&logoColor=fff">
+
+<img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=fff">
 <img src="https://img.shields.io/badge/-VS%20Code-000?&amp;logo=Visual-Studio-Code" alt="VS Code">
+<img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor">
+
+
+<h3 id="services--frameworks">Services:</h3>
+<p> 
+<img src="https://img.shields.io/badge/-Docker-000?&amp;logo=Docker" alt="Docker">
+<img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=fff">
 <img src="https://img.shields.io/badge/-Postman-000?&amp;logo=Postman" alt="Postman"></p>
 
-<h3 id="services--frameworks">Services &amp; Frameworks:</h3>
-<p> 
-<img src="https://img.shields.io/badge/-Hasura-000?&amp;logo=Hasura" alt="Hasura">
-<img src="https://img.shields.io/badge/-Auth0-000?&amp;logo=Auth0" alt="Auth0">
-<img src="https://img.shields.io/badge/-Serverless-000?&amp;logo=Serverless" alt="Serverless"></p>
 <h3 id="databases">Databases:</h3>
 <p> 
-<img src="https://img.shields.io/badge/-MongoDB-000?&amp;logo=MongoDB" alt="MongoDB">
-<img src="https://img.shields.io/badge/-PostgreSQL-000?&amp;logo=PostgreSQL" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/-MySQL-000?&amp;logo=MySQL" alt="MySQL">
-<img src="https://img.shields.io/badge/-Redis-000?&amp;logo=Redis" alt="Redis">
-<img src="https://img.shields.io/badge/-SQLite-000?&amp;logo=SQLite" alt="SQLite"></p>
+<img src="https://img.shields.io/badge/-Firebase-039BE5?logo=Firebase&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff">
+<img src="https://img.shields.io/badge/-Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/-Redis-%23DD0031.svg?logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/-SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=fff">
+<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white">
+
+
+
 <h3 id="sre--devops">SRE &amp; DevOps:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-AWS-000?&amp;logo=Amazon-AWS" alt="AWS">
@@ -81,6 +86,7 @@
 <img src="https://img.shields.io/badge/-Grafana-000?&amp;logo=Grafana" alt="Grafana">
 <img src="https://img.shields.io/badge/-Nginx-000?&amp;logo=Nginx" alt="Nginx">
 <img src="https://img.shields.io/badge/-Chef-000?&amp;logo=Chef" alt="Chef"></p>
+
 <p> </p>
 <h2 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h2>
 <h3 id="-profile-stats">💻 Profile Stats</h3>
