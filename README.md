@@ -5,7 +5,7 @@
 </h3>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=unesio-severino">
 
-<p> </p>
+<p></p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="programming-languages">Programming languages:</h3>
 <p> 
@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></p>
+<hr>
+
 
 <h3 id="frontend-development">Frameworks &amp; Libs Stacks:</h3>
 <p> 
