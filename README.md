@@ -1,26 +1,17 @@
-  <!--
-<p align=center ><img src="https://i.imgur.com/u0IETFu.png" title="source: imgur.com" /></p>
-<p align=center><a href="https://imgur.com/9cyvBLo"><img src="https://i.imgur.com/9cyvBLo.png" title="source: imgur.com" /></a></p>
-
-!-->
-<p align="center"><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png"></a></p>
-<p align="center"><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"></a></p>
-<!--
 <div>
-cpp  
+                              cpp  
                                     void life(void)
                                     {
-                                      printf("Hi 👋, I'm Dipankar \n");
-                                      printf("A passionate kernel hacker from India \n");
-                                      char currentlyLearning[] = "openWRT";
-                                      char AskMeAbout[] = "Linux";
-                                      char ReachMeAt[] = "d.pal5050@gmail.com";
-                                      char FunFact[]  = "I don't have a girlfriend 😭";
+                                      printf("Hi 👋, I'm Unesio \n");
+                                      printf("A passionate Software Developer from Mozambique \n");
+                                      char currentlyLearning[] = "LLM's";
+                                      char AskMeAbout[] = "Software";
+                                      char ReachMeAt[] = "unesio.private@gmail.com";
+                                     
                                     }
 
 
 </div>
-!-->
 <div align="center">
   <!--
    <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
