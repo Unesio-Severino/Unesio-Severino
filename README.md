@@ -45,18 +45,16 @@
 <img src="https://img.shields.io/badge/-shadcn%2Fui-000?logo=shadcnui&logoColor=fff"></p>
 
 
-<h3 id="misc-tools">Misc tools:</h3>
+<h3 id="editor-tools">Editor tools:</h3>
 <p> 
-<img src="https://img.shields.io/badge/-Git-000?&amp;logo=Git">
-<img src="https://img.shields.io/badge/-GitHub-000?&amp;logo=GitHub">
-<img src="https://img.shields.io/badge/-Android%20Studio-1976D2?logo=androidstudio&logoColor=fff">
 
+<img src="https://img.shields.io/badge/-Android%20Studio-1976D2?logo=androidstudio&logoColor=fff">
 <img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=fff">
 <img src="https://img.shields.io/badge/-VS%20Code-000?&amp;logo=Visual-Studio-Code" alt="VS Code">
 <img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor">
 
 
-<h3 id="services--frameworks">AI Tools:</h3>
+<h3 id="ai--tools">AI Tools:</h3>
 <p> 
 <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
@@ -77,8 +75,10 @@
 
 
 
-<h3 id="sre--devops">DevOps:</h3>
+<h3 id="services">Services:</h3>
 <p>
+<img src="https://img.shields.io/badge/-Git-000?&amp;logo=Git">
+<img src="https://img.shields.io/badge/-GitHub-000?&amp;logo=GitHub">
 <img src="https://custom-icon-badges.demolab.com/badge/-AWS-%23FF9900.svg?logo=aws&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-000?&amp;logo=Docker" alt="Docker">
 <img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=Cloudflare&logoColor=white">
@@ -90,13 +90,15 @@
 <p> </p>
 <h3 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h3>
 <h3 id="-profile-stats">💻 Profile Stats</h3>
-<p><img alt="Unesio's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Unesio-Severino&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px">
+<p>
+<img alt="Unesio's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Unesio-Severino&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px">
+  
 <img alt="Unesio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"></p>
 
 <h3 id="-streak-stats">🔥 Streak Stats</h3>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Unesio-Severino&amp;theme=tokyonight" alt="Unesio's GitHub stats"></p>
 
 <h3 id="-contribution-stats">📊 Contribution Stats</h3>
-<img alt="Unesio's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Unesio_Severino&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true">
+<img alt="Unesio's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Unesio-Severino&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true">
 
 
