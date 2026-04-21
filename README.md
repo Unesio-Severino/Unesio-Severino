@@ -27,7 +27,6 @@
 <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff">
 <img src="https://img.shields.io/badge/-Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white">
 </p>
-
 <p> 
 <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
@@ -36,6 +35,8 @@
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
 </p>
+
+<hr>
 
 <p></p>
 <h4 id="frontend-development">Frontend Stacks:</h4>
@@ -58,6 +59,8 @@
 <img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=fff">
 <img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=fff">
 </p>
+
+<hr>
 
 <p></p>
 <h4 id="ai--tools">AI Tools:</h4>
@@ -105,6 +108,8 @@
 <img src="https://img.shields.io/badge/-Vercel-%23000000.svg?logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/-Kubernetes-000?&amp;logo=Kubernetes" alt="Kubernetes">
 </p>
+
+<hr>
 
 <p></p>
 <h4 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h4>
