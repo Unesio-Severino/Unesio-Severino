@@ -9,7 +9,7 @@
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="programming-languages">Programming languages:</h3>
 <p> 
-<img src="https://img.shields.io/badge/-PHP-000?&amp;logo=PHP" alt="PHP">
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
