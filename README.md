@@ -96,7 +96,7 @@
 <p> </p>
 <h3 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h3>
 <h3 id="-profile-stats">💻 Profile Stats</h3>
-<p align="center">
+<p align="left">
 <a href="https://github.com/Unesio-Severino">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Unesio-Severino&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Unesio-Severino&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
@@ -106,7 +106,5 @@
 <h3 id="-streak-stats">🔥 Streak Stats</h3>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Unesio-Severino&amp;theme=tokyonight" alt="Unesio's GitHub stats"></p>
 
-<h3 id="-contribution-stats">📊 Contribution Stats</h3>
-<img alt="Unesio's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Unesio-Severino&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true">
 
 
