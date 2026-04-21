@@ -4,16 +4,12 @@
 
 <br/>
 
-<!-- <div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div> -->
-
-<br/>
-
 <div align="center">
   <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
+<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 <br/>
 
 <div align="left">
