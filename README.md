@@ -49,8 +49,8 @@
 <p> 
 
 <img src="https://img.shields.io/badge/-Android%20Studio-1976D2?logo=androidstudio&logoColor=fff">
+<img src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=fff">
-<img src="https://img.shields.io/badge/-VS%20Code-000?&amp;logo=Visual-Studio-Code" alt="VS Code">
 <img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor">
 
 
