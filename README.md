@@ -12,7 +12,7 @@
 <h3 id="programming-languages">Programming languages:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" alt="JavaScript">
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+<img src="https://img.shields.io/badge/-Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/-GraphQL-000?&amp;logo=GraphQL" alt="GraphQL">
 <img src="https://img.shields.io/badge/-HCL-000?&amp;logo=HCL" alt="HCL">
 <img src="https://img.shields.io/badge/-Bash-000?&amp;logo=GNU-Bash" alt="Bash">
