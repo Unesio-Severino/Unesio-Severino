@@ -50,8 +50,8 @@
 
 <img src="https://img.shields.io/badge/-Android%20Studio-1976D2?logo=androidstudio&logoColor=fff">
 <img src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=white">
-<img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white">
+<img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=fff">
+<img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=fff">
 
 
 <h3 id="ai--tools">AI Tools:</h3>
@@ -73,7 +73,13 @@
 <img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=fff">
 <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white">
 
-
+<h3 id="services">Operating System:</h3>
+<p>
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
+</p>
 
 <h3 id="services">Services:</h3>
 <p>
