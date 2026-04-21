@@ -96,10 +96,12 @@
 <p> </p>
 <h3 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h3>
 <h3 id="-profile-stats">💻 Profile Stats</h3>
-<p>
-<img alt="Unesio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Unesio-Severino&show_icons=true&theme=radical" height="192px">
-  
-<img alt="Unesio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"></p>
+<p align="center">
+<a href="https://github.com/Unesio-Severino">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Unesio-Severino&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Unesio-Severino&amp;layout=compact&amp;langs_count=8&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
+</a>
+</p>
 
 <h3 id="-streak-stats">🔥 Streak Stats</h3>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Unesio-Severino&amp;theme=tokyonight" alt="Unesio's GitHub stats"></p>
