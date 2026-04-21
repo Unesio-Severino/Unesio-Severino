@@ -1,23 +1,14 @@
-  <h1 align="center">Hi 👋, I'm Berkeli</h1>
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<h1 align="center">Hi 👋, I'm Unesio </h1>
+
 <hr>
 <p> </p>
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
- 
-<hr>
+<h3 align="left">Hi 👋, I'm Unesio, a programmer based in Mozambique. I'm really passionate about digital technology.</h3>
+ <hr>
 <p> </p>
 <ul>
+
 <li>
-<p>🔭 I’m currently working on <a href="https://mentor.love/">Mentor Bot</a> for CYF Products.</p>
-</li>
-<li>
-<p>📚 I’m also doing the <a href="https://github.com/CodeYourFuture/immersive-go-course">Immersive Engineering Course</a>, a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with <a href="https://slack.com/">Slack</a>.</p>
-</li>
-<li>
-<p>🌱 I’m currently learning <strong>GO, Observability &amp; Monitoring of Distributed Systems, Event Driven Systems</strong></p>
-</li>
-<li>
-<p>💬 Ask me about <strong>AWS, Terraform, TypeScript, SQL/NoSQL Databases</strong></p>
+<p> Ask me about <strong>AWS, Terraform, TypeScript, SQL/NoSQL Databases</strong></p>
 </li>
 </ul>
 <p> </p>
