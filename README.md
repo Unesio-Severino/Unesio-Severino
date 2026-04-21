@@ -1,5 +1,14 @@
 <h3 align="center">Hi 👋, I'm Unesio, a programmer based in Mozambique. I'm really passionate about digital technology. </h3>
 <hr>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <p> </p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="programming-languages">Programming languages:</h3>
