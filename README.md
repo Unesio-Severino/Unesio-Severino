@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Unesio+Mucutueliua....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 <hr>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <p> </p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
