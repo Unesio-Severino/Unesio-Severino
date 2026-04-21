@@ -25,12 +25,15 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff">
 <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white">
+</p>
+<p> 
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+</p>
 
 <h3 id="frontend-development">Frontend development:</h3>
 <p> 
