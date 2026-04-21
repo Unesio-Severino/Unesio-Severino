@@ -7,8 +7,17 @@
 </h3>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=unesio-severino">
 
+<div align="center">
+  <a href="mailto:unesio.private@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red">
+  </a>
+ 
+  <a href="https://www.instagram.com/unesio._.charger/">
+    <img alt="Instagram" title="" &#x22;follow="" on="" instagram&#x22;="" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white">
+  </a>
+</div>
 <p></p>
-<h2 id="️-my-skills">All Tech Stacks</h2>
+<h2 id="️-my-skills">Tech Stacks</h2>
 
 <h4 id="programming-languages">Programming languages:</h4>
 <p> 
