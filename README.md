@@ -7,6 +7,7 @@
 
 <p></p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
+
 <h4 id="programming-languages">Programming languages:</h4>
 <p> 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
@@ -86,6 +87,8 @@
 <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white">
 </p>
 
+<hr>
+
 <p></p>
 <h4 id="services">Operating System:</h4>
 <p>
@@ -94,7 +97,6 @@
 <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 </p>
-
 
 <p></p>
 <h4 id="services">Services:</h4>
