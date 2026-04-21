@@ -1,44 +1,5 @@
-<h1 align="center">Hi 👋, I'm Unesio </h1>
-
+<h3 align="center">Hi 👋, I'm Unesio, a programmer based in Mozambique. I'm really passionate about digital technology. </h3>
 <hr>
-<p> </p>
-<h3 align="left">Hi 👋, I'm Unesio, a programmer based in Mozambique. I'm really passionate about digital technology.</h3>
- <hr>
-<p> </p>
-<ul>
-
-<li>
-<p> Ask me about <strong>AWS, Terraform, TypeScript, SQL/NoSQL Databases</strong></p>
-</li>
-</ul>
-<p> </p>
-<h2 id="me-around-the-web">Me around the web:</h2>
-<hr>
-<p> 
-<a href="https://www.linkedin.com/in/berkeli/">
-<img src="https://img.shields.io/badge/-berkeli-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" alt="Linkedin: berkeli">
-</a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-<img src="https://img.shields.io/twitter/follow/halmyradov?style=social" alt="Twitter: halmyradov">
-</a>
-<a href="https://www.instagram.com/halmyradov/">
-<img src="https://img.shields.io/badge/-halmyradov-000?&amp;logo=Instagram" alt="Instagram: halmyradov">
-</a>
-<a href="https://github.com/berkeli">
-<img src="https://img.shields.io/github/followers/berkeli?label=follow&amp;style=social" alt="GitHub: berkeli">
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-<img src="https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social" alt="StackOverflow: berkeli">
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-<img src="https://www.codewars.com/users/BerkeliH/badges/small" alt="CodeWars: BerkeliH">
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-<img src="https://img.shields.io/badge/-berkeli-000?&amp;logo=LeetCode" alt="LeetCode: berkeli">
-</a>
-<a href="https://codepen.io/berkeli">
-<img src="https://img.shields.io/badge/-berkeli-000?&amp;logo=CodePen" alt="CodePen: berkeli">
-</a></p>
 <p> </p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <hr>
