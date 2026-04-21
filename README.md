@@ -2,6 +2,23 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Unesio+Mucutueliua....;Nice+to+meet+you!&center=true&size=30">
   </a>
+
+  <!--
+<div>
+cpp  
+                                    void life(void)
+                                    {
+                                      printf("Hi 👋, I'm Dipankar \n");
+                                      printf("A passionate kernel hacker from India \n");
+                                      char currentlyLearning[] = "openWRT";
+                                      char AskMeAbout[] = "Linux";
+                                      char ReachMeAt[] = "d.pal5050@gmail.com";
+                                      char FunFact[]  = "I don't have a girlfriend 😭";
+                                    }
+
+
+</div>
+!-->
 </h3>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=unesio-severino">
 
