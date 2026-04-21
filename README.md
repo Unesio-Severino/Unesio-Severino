@@ -4,8 +4,6 @@
   </a>
 </h3>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=unesio-severino">
-<hr>
-
 
 <p> </p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
