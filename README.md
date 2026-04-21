@@ -50,8 +50,8 @@
 
 <img src="https://img.shields.io/badge/-Android%20Studio-1976D2?logo=androidstudio&logoColor=fff">
 <img src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=fff">
-<img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor">
+<img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=white">
+<img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white">
 
 
 <h3 id="ai--tools">AI Tools:</h3>
