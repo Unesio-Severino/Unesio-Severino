@@ -20,19 +20,19 @@
 <h3 id="frontend-development">Frameworks and Libs development:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
-<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff">
-<img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/-Angular-%23DD0031.svg?logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/-Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff">
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
+<img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff">
+<img src="https://img.shields.io/badge/-Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white">
 </p>
 <p> 
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+<img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Nuxt-002E3B?logo=nuxt&logoColor=#00DC82">
+<img src="https://img.shields.io/badge/-React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/-React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
 </p>
 
 <h3 id="frontend-development">Frontend development:</h3>
@@ -41,10 +41,10 @@
 <img src="https://img.shields.io/badge/-Next.js-000?&amp;logo=Next.js" alt="Next.js">
 <img src="https://img.shields.io/badge/-Material--UI-000?&amp;logo=Material-UI" alt="Material-UI">
 <img src="https://img.shields.io/badge/-Chakra%20UI-000?&amp;logo=Chakra-UI" alt="Chakra UI">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
-<img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff">
-<img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff">
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+<img src="https://img.shields.io/badge/-Three.js-000?logo=threedotjs&logoColor=fff">
+<img src="https://img.shields.io/badge/-shadcn%2Fui-000?logo=shadcnui&logoColor=fff">
 
 <h3 id="misc-tools">Misc tools:</h3>
 <p> 
