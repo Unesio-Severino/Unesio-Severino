@@ -7,7 +7,7 @@
 
 <p></p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
-<h3 id="programming-languages">Programming languages:</h3>
+<h4 id="programming-languages">Programming languages:</h4>
 <p> 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
@@ -15,10 +15,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></p>
-<hr>
 
-
-<h3 id="frontend-development">Frameworks &amp; Libs Stacks:</h3>
+<p></p>
+<h4 id="frontend-development">Frameworks &amp; Libs Stacks:</h4>
 <p> 
 <img src="https://img.shields.io/badge/-Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
 <img src="https://img.shields.io/badge/-Angular-%23DD0031.svg?logo=angular&logoColor=white">
@@ -35,7 +34,8 @@
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=fff">
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=fff"></p>
 
-<h3 id="frontend-development">Frontend Stacks:</h3>
+<p></p>
+<h4 id="frontend-development">Frontend Stacks:</h4>
 <p> 
 <img src="https://img.shields.io/badge/-React-000?&amp;logo=React" alt="React">
 <img src="https://img.shields.io/badge/-Next.js-000?&amp;logo=Next.js" alt="Next.js">
@@ -46,17 +46,16 @@
 <img src="https://img.shields.io/badge/-Three.js-000?logo=threedotjs&logoColor=fff">
 <img src="https://img.shields.io/badge/-shadcn%2Fui-000?logo=shadcnui&logoColor=fff"></p>
 
-
-<h3 id="editor-tools">Editor tools:</h3>
+<p></p>
+<h4 id="editor-tools">Editor tools:</h4>
 <p> 
-
 <img src="https://img.shields.io/badge/-Android%20Studio-1976D2?logo=androidstudio&logoColor=fff">
 <img src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=fff">
-<img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=fff">
+<img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=fff"></p>
 
-
-<h3 id="ai--tools">AI Tools:</h3>
+<p></p>
+<h4 id="ai--tools">AI Tools:</h4>
 <p> 
 <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
@@ -64,7 +63,9 @@
 <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff">
 <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff"></p>
 
-<h3 id="databases">Databases:</h3>
+
+<p></p>
+<h4 id="databases">Databases:</h4>
 <p> 
 <img src="https://img.shields.io/badge/-Firebase-039BE5?logo=Firebase&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
@@ -73,9 +74,10 @@
 <img src="https://img.shields.io/badge/-Redis-%23DD0031.svg?logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/-SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=fff">
-<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white"></p>
 
-<h3 id="services">Operating System:</h3>
+<p></p>
+<h4 id="services">Operating System:</h4>
 <p>
 <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
@@ -83,7 +85,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white">
 </p>
 
-<h3 id="services">Services:</h3>
+
+<p></p>
+<h4 id="services">Services:</h4>
 <p>
 <img src="https://img.shields.io/badge/-Git-000?&amp;logo=Git">
 <img src="https://img.shields.io/badge/-GitHub-000?&amp;logo=GitHub">
@@ -95,9 +99,10 @@
 <img src="https://img.shields.io/badge/-Kubernetes-000?&amp;logo=Kubernetes" alt="Kubernetes">
 </p>
 
-<p> </p>
-<h3 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h3>
-<h3 id="-profile-stats">💻 Profile Stats</h3>
+<p></p>
+<h4 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h4>
+<h4 id="-profile-stats">💻 Profile Stats</h4>
+
 <p align="left">
 <a href="https://github.com/Unesio-Severino">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Unesio-Severino&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
@@ -105,7 +110,7 @@
 </a>
 </p>
 
-<h3 id="-streak-stats">🔥 Streak Stats</h3>
+<h4 id="-streak-stats">🔥 Streak Stats</h4>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Unesio-Severino&amp;theme=tokyonight" alt="Unesio's GitHub stats"></p>
 
 
