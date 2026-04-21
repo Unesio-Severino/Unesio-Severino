@@ -2,7 +2,6 @@
 <hr>
 <p> </p>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
-<hr>
 <h3 id="programming-languages">Programming languages:</h3>
 <p> 
 <img src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" alt="JavaScript">
