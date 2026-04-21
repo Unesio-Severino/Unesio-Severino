@@ -47,8 +47,8 @@
 
 <h3 id="misc-tools">Misc tools:</h3>
 <p> 
-<img src="https://img.shields.io/badge/-Git-000?&amp;logo=Git" alt="Git">
-<img src="https://img.shields.io/badge/-GitHub-000?&amp;logo=GitHub" alt="GitHub">
+<img src="https://img.shields.io/badge/-Git-000?&amp;logo=Git">
+<img src="https://img.shields.io/badge/-GitHub-000?&amp;logo=GitHub">
 <img src="https://img.shields.io/badge/-Android%20Studio-1976D2?logo=androidstudio&logoColor=fff">
 
 <img src="https://img.shields.io/badge/-WebStorm-000?logo=webstorm&logoColor=fff">
@@ -56,11 +56,13 @@
 <img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor">
 
 
-<h3 id="services--frameworks">Services:</h3>
+<h3 id="services--frameworks">AI Tools:</h3>
 <p> 
-<img src="https://img.shields.io/badge/-Docker-000?&amp;logo=Docker" alt="Docker">
-<img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=fff">
-<img src="https://img.shields.io/badge/-Postman-000?&amp;logo=Postman" alt="Postman"></p>
+<img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff">
+<img src="https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff">
+<img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff">
+<img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff"></p>
 
 <h3 id="databases">Databases:</h3>
 <p> 
@@ -75,26 +77,26 @@
 
 
 
-<h3 id="sre--devops">SRE &amp; DevOps:</h3>
-<p> 
-<img src="https://img.shields.io/badge/-AWS-000?&amp;logo=Amazon-AWS" alt="AWS">
-<img src="https://img.shields.io/badge/-Azure-000?&amp;logo=Microsoft-Azure" alt="Azure">
-<img src="https://img.shields.io/badge/-Terraform-000?&amp;logo=Terraform" alt="Terraform">
+<h3 id="sre--devops">DevOps:</h3>
+<p>
+<img src="https://custom-icon-badges.demolab.com/badge/-AWS-%23FF9900.svg?logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker-000?&amp;logo=Docker" alt="Docker">
+<img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=Cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/-Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7">
+<img src="https://img.shields.io/badge/-Vercel-%23000000.svg?logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/-Kubernetes-000?&amp;logo=Kubernetes" alt="Kubernetes">
-<img src="https://img.shields.io/badge/-Consul-000?&amp;logo=Consul" alt="Consul">
-<img src="https://img.shields.io/badge/-Prometheus-000?&amp;logo=Prometheus" alt="Prometheus">
-<img src="https://img.shields.io/badge/-Grafana-000?&amp;logo=Grafana" alt="Grafana">
-<img src="https://img.shields.io/badge/-Nginx-000?&amp;logo=Nginx" alt="Nginx">
-<img src="https://img.shields.io/badge/-Chef-000?&amp;logo=Chef" alt="Chef"></p>
+</p>
 
 <p> </p>
-<h2 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h2>
+<h3 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h3>
 <h3 id="-profile-stats">💻 Profile Stats</h3>
-<p><img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"></p>
+<p><img alt="Unesio's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Unesio-Severino&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px">
+<img alt="Unesio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unesio-Severino&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"></p>
+
 <h3 id="-streak-stats">🔥 Streak Stats</h3>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkeli&amp;theme=tokyonight" alt="Berkeli's GitHub stats"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Unesio-Severino&amp;theme=tokyonight" alt="Unesio's GitHub stats"></p>
+
 <h3 id="-contribution-stats">📊 Contribution Stats</h3>
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true">
-<hr>
-<p>Credit: <a href="https://github.com/Berkeli">Berkeli</a>
-Last Edited on: 02/01/2023</p> 
+<img alt="Unesio's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Unesio_Severino&amp;bg_color=1F222E&amp;color=F8D866&amp;line=F85D7F&amp;point=FFFFFF&amp;hide_border=true">
+
+
